@@ -1,7 +1,7 @@
 # ReLX
 Lighting CAD with truss calculations, power and dmx wire routing, and simulation.
 
-Language: C#
+Language: C# <br />
 OS: Linux, Windows, ++<br />
 Current status: Collecting Ideas
 
