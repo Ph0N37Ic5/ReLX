@@ -5,7 +5,7 @@ Language: C#
 OS: Linux, Windows, ++<br />
 Current status: Collecting Ideas
 
-##Three stages of operation.##
+#### Three stages of operation.
 - Rigging
     - Truss centric.
     - Configure trusses and hanging points with weight allowances.
@@ -35,6 +35,6 @@ Current status: Collecting Ideas
     - Export of video surface definitions to playback controllers like QLab or Watch-Out.
     - Export of patched show files for various ligthing desks.
     
-##Rules##
+#### Rules
 - Every function and class should be commented fully before submitting to Git.
 - There is a quite strict code standard in place. Familiarize yourself with it.
