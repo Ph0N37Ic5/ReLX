@@ -34,6 +34,7 @@ Current status: Collecting Ideas
     - 3d simulation with mixer input.
     - Export of video surface definitions to playback controllers like QLab or Watch-Out.
     - Export of patched show files for various ligthing desks.
+    
 ##Rules##
 - Every function and class should be commented fully before submitting to Git.
 - There is a quite strict code standard in place. Familiarize yourself with it.
