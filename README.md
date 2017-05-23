@@ -1,13 +1,13 @@
 # ReLX
-Lighting CAD with truss calculations, power and dmx wire routing, and simulation.<br \>
+Lighting CAD with truss calculations, power and dmx wire routing, and simulation.
 
-Language: C#<br />
+Language: C#
 OS: Linux, Windows, ++<br />
-Current status: Collecting Ideas<br />
+Current status: Collecting Ideas
 
 ##Three stages of operation.##
 - Rigging
-    - Truss centric
+    - Truss centric.
     - Configure trusses and hanging points with weight allowances.
     - Configure stage elements with weight allowances.
     - Design and import room structure (3d scanning?)
@@ -17,21 +17,23 @@ Current status: Collecting Ideas<br />
     - Configure tree structures of power distribution.
         - Calculation of required wattage and wire gauges(in square mm.)
         - Get warnings for electrical overloading.
-    - Configure DMX distribution
+    - Configure DMX distribution.
         - Ethernet interfaces, and dmx splitters.
-        - Drag and drop lamp adress patching
-        - Overlapping patches (Allowed, but with warning)
-        - Fault finding
-            - Cable lengths
-            - Number of units
-            - Singnal bounce simulation
-            - Problematic splits
+        - Drag and drop lamp adress patching.
+        - Overlapping patches (Allowed, but with warning.)
+        - Fault finding.
+            - Cable lengths.
+            - Number of units.
+            - Singnal bounce simulation.
+            - Problematic splits.
+            - Tag fixtures showing problems.
 - Presentation
-    - 2d drawings for riggers and lx operators
-    - patch, color and gobo lists
-    - 3d rendered pictures
-    - 3d simulation with mixer input
-
+    - 2d drawings for riggers and lx operators.
+    - patch, color and gobo lists.
+    - 3d rendered pictures.
+    - 3d simulation with mixer input.
+    - Export of video surface definitions to playback controllers like QLab or Watch-Out.
+    - Export of patched show files for various ligthing desks.
 ##Rules##
 - Every function and class should be commented fully before submitting to Git.
 - There is a quite strict code standard in place. Familiarize yourself with it.
